@@ -7,5 +7,5 @@
 - 𝐏𝐡𝐚𝐬𝐞 5.𝐂𝐚𝐜𝐡𝐢𝐧𝐠: Redis Read/write through, dynamic updates DB load reduce, improved response time
 - 𝐏𝐡𝐚𝐬𝐞 4.𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐛𝐢𝐥𝐢𝐭𝐲: Centralized Logging, Distributed Tracing, Monitoring and Alerts
 - 𝐏𝐡𝐚𝐬𝐞 3.𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐑𝐨𝐮𝐭𝐢𝐧𝐠: API Gateway, Service Discovery, Server/Client-side Load Balancers
-- 𝐏𝐡𝐚𝐬𝐞 2.𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧: Docker Compose, Bash automation, Network to emulate distributed sytem, Voumes data persistence
-- 𝐏𝐡𝐚𝐬𝐞 1.𝐓𝐡𝐫𝐞𝐞-𝐓𝐢𝐞𝐫-𝐥𝐢𝐤𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Microservices, custom HTTP/connection pooling, Django web, React, Postgres, Linux VM
+- 𝐏𝐡𝐚𝐬𝐞 2.𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫: Docker Compose, Bash automates, Network emulate distributed sytem, Voumes data persistence
+- 𝐏𝐡𝐚𝐬𝐞 1.𝐓𝐡𝐫𝐞𝐞-𝐓𝐢𝐞𝐫-𝐥𝐢𝐤𝐞: RESTMicroservices, custom HTTP/connection pooling, Django, React, Postgres, Linux VM
