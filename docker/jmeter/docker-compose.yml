@@ -1,0 +1,26 @@
+version: "3.5"
+
+networks:
+  mynet1:
+    external: true
+    name: mynet1
+
+services:
+  jmeter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ntw/jmeter
+    container_name: jmeter-1
+    hostname: jmeter-1
+    networks:
+      - mynet1
+    environment:
+      - TEST_HOST=gateway-svc-1
+      - TEST_PORT=8080
+      - USER_NUM=1
+      - LOOP_NUM=1
+      - LOG_LEVEL=ERROR
+      - LOG_LEVEL_HTTP=DEBUG
+    volumes:
+      - ./logs:/var/log/oms

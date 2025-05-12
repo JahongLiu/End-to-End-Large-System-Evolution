@@ -1,0 +1,16 @@
+.navbar-brand {
+    padding:0px 10px;
+}
+
+.navbar-brand img {
+    height:50px;
+    padding: 10px;
+}
+
+.nav-link-inherit {
+	color: inherit;
+}
+.nav-link-inherit:hover {
+	color: inherit;
+	text-decoration: inherit;
+}	
