@@ -1,4 +1,4 @@
-# End-to-End-Large-System-Evolutio
+# End-to-End-Large-System-Evolution
 
 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰: Architected large-scale store to explore design trade-offs and scalability needs iteratively
 - 𝐏𝐡𝐚𝐬𝐞 8.𝐆𝐊𝐄 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧: Availability, Rolling Updates, Auto Scaling, Regions
